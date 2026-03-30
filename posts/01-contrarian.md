@@ -117,17 +117,17 @@ More sales → more cash in → more cash immediately pulled out by lenders → 
 
 You can't outwork a structural problem.
 
-A business owner doing $3M/year called us last quarter. Working 80-hour weeks. Team of 15. Growing every month.
+Imagine a business doing $3M/year. Owner working 80-hour weeks. Team of 15. Growing every month.
 
-Couldn't make payroll every other Friday.
+Can't make payroll every other Friday.
 
-Not because the business was failing. Because 5 different payment obligations were pulling from the same account on different days, and the timing never lined up.
+Not because the business is failing. Because 5 different payment obligations are pulling from the same account on different days, and the timing never lines up.
 
-The fix wasn't more hustle.
+The fix isn't more hustle.
 
-It was restructuring when and how those payments hit.
+It's restructuring when and how those payments hit.
 
-Within 60 days, same revenue, same expenses — but cash was actually available when needed.
+Same revenue, same expenses — but cash actually available when needed.
 
 That's the difference between a revenue problem and a structure problem.
 

@@ -18,7 +18,7 @@ And now they're trapped in a cycle where revenue grows but cash shrinks.
 
 The pattern isn't unique. It's not random. And it's not because these are bad operators.
 
-It's because the lending industry is designed to create this exact cycle. Each lender profits individually. Nobody looks at the total picture.
+It's because the lending industry is designed to create this exact cycle. Each lender profits individually. And even though they can see other advances on your bank statements, their underwriting decision is about their own deal — not the combined weight on your cash flow.
 
 That's what restructuring does — it takes the total picture and reorganizes it into something the business can actually sustain.
 
