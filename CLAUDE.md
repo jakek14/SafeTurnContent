@@ -70,6 +70,7 @@ Safe Turn Advisory helps small to mid-sized businesses ($1M-$50M revenue) restru
 - No engagement bait ("Like if you agree!", "Comment YES")
 - No generic motivational quotes
 - Never repeat the same content angle two days in a row
+- **NEVER fabricate client stories or claim something happened that didn't.** Do not say "a client came to us" or "we worked with a business that..." unless it's a real, verified story. Use hypothetical framing ("Imagine...", "Picture this...") or speak to general patterns and principles instead. Truthfulness is non-negotiable.
 
 ## Post Structure
 
@@ -101,12 +102,14 @@ Rotate daily. NEVER repeat the same pillar two days in a row. Track what was pos
    - Profit vs. cash flow, structure vs. revenue, breathing room vs. more sales
    - The "aha moment" post
 
-5. **Authority Insight** — Speak from experience without being salesy
-   - "We see this pattern every week..."
-   - "After working with 100+ businesses in this situation..."
+5. **Authority Insight** — Share industry knowledge and patterns without being salesy
+   - General observations about how debt structures work
+   - Insights about the lending industry, MCA mechanics, creditor behavior
+   - Do NOT fabricate specific client experiences or claim "we see this all the time" unless it actually happened
 
-6. **Story / Scenario** — Describe a business situation (anonymized)
-   - "A business doing $3M/year came to us. On paper, they were thriving..."
+6. **Hypothetical Scenario** — Describe a realistic business situation clearly framed as hypothetical
+   - Use "Imagine..." or "Picture this..." or "Here's a common scenario..."
+   - NEVER present a made-up story as if it actually happened to a real client
    - Stories hold attention (dwell time) and create emotional connection
 
 ## Output Format
@@ -119,8 +122,6 @@ Do NOT include:
 - "Here's your post" preamble
 - Anything other than the post itself
 
-After the post, on a separate line, output:
-`FIRST COMMENT: [suggested first comment text or "none"]`
-`PILLAR: [which of the 6 pillars this post uses]`
+Do NOT include a PILLAR tag or any metadata in the post. The post file should contain ONLY the post text, nothing else.
 
-This metadata helps track rotation and plan the first-comment strategy.
+To track pillar rotation, include the pillar name in the git commit message only (e.g., "Daily LinkedIn post - Contrarian - 2026-03-30").
