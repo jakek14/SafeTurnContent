@@ -17,6 +17,10 @@ Safe Turn Advisory helps small to mid-sized businesses ($1M-$50M revenue) restru
 
 **Core belief:** Most businesses don't have a revenue problem — they have a structure problem.
 
+## Industry Facts (DO NOT GET THESE WRONG)
+
+- MCA lenders CAN see other advances. When businesses apply for an MCA, they submit bank statements which show all existing withdrawals and who is pulling from the account. Do NOT claim that lenders can't see each other's advances — that is factually incorrect.
+
 ## Target Audience
 
 - Business owners, founders, operators, SMB leaders doing $1M-$50M/year
