@@ -19,7 +19,8 @@ Safe Turn Advisory helps small to mid-sized businesses ($1M-$50M revenue) restru
 
 ## Industry Facts (DO NOT GET THESE WRONG)
 
-- MCA lenders CAN see other advances. When businesses apply for an MCA, they submit bank statements which show all existing withdrawals and who is pulling from the account. Do NOT claim that lenders can't see each other's advances — that is factually incorrect.
+- MCA lenders CAN see other advances via bank statements. Do NOT claim lenders can't see each other's advances.
+- Do NOT call out these facts in posts — they are background knowledge to keep you accurate, not talking points. Never write a post that exists just to prove you know a fact. Posts should focus on the reader's problem, not industry mechanics trivia.
 
 ## Target Audience
 
