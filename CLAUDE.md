@@ -132,4 +132,12 @@ Do NOT include:
 
 Do NOT include a PILLAR tag or any metadata in the post. The post file should contain ONLY the post text, nothing else.
 
-To track pillar rotation, include the pillar name in the git commit message only (e.g., "Daily LinkedIn post - Contrarian - 2026-03-30").
+To track pillar rotation and sources, include them in the git commit message only (not in the post file). Format:
+```
+Daily LinkedIn post - [pillar name] - YYYY-MM-DD
+
+Sources:
+- [source title](URL)
+- [source title](URL)
+```
+List every article, report, or data source that informed the post — even if not directly cited. If no external sources were used, write "Sources: none (general industry knowledge)".
