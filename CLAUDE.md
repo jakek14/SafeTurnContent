@@ -77,6 +77,7 @@ Safe Turn Advisory helps small to mid-sized businesses ($1M-$50M revenue) restru
 - Never repeat the same content angle two days in a row
 - **NEVER fabricate client stories or claim something happened that didn't.** Do not say "a client came to us" or "we worked with a business that..." unless it's a real, verified story. Use hypothetical framing ("Imagine...", "Picture this...") or speak to general patterns and principles instead. Truthfulness is non-negotiable.
 - **No redundant references.** If you mention something (e.g., "a third MCA"), don't circle back and reference the same thing again later in the post. It reads as awkward and repetitive. Each idea should appear once and flow forward.
+- **Read every sentence from the audience's perspective.** If a phrase could be misread, rewrite it. Example: "avoiding debt" sounds like never borrowing in the first place — say "avoiding their debt obligations" or "ignoring what they owe" instead. Avoid vague pronouns like "more of it" — be specific about what "it" refers to.
 
 ## Post Structure
 
