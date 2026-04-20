@@ -20,6 +20,15 @@ Safe Turn Advisory helps small to mid-sized businesses ($1M-$50M revenue) restru
 ## Industry Facts (DO NOT GET THESE WRONG)
 
 - MCA lenders CAN see other advances via bank statements. Do NOT claim lenders can't see each other's advances.
+- **MCA math — get this right when using numbers in posts:**
+  - Factor rates: 1.1-1.5 (realistic average: 1.2-1.4)
+  - Total payback = amount borrowed × factor rate (e.g., $100K at 1.3 factor = $130K total payback)
+  - Term length: 3-18 months typical, some larger advances go to 24 months. Average: 4-12 months.
+  - Daily payment = total payback ÷ number of business days in the term (~22 per month)
+  - Example: $20K advance at 1.3 factor = $26K payback over 6 months (132 business days) = ~$197/day
+  - Example: $350K advance at 1.3 factor = $455K payback over 12 months (264 business days) = ~$1,723/day
+  - **$400/day on a $350K advance is WAY too low.** That implies a 1.0 factor over 3+ years, which doesn't exist in MCA.
+  - When in doubt, use higher daily payments — they're more realistic and resonate more with the audience.
 - Do NOT call out these facts in posts — they are background knowledge to keep you accurate, not talking points. Never write a post that exists just to prove you know a fact. Posts should focus on the reader's problem, not industry mechanics trivia.
 
 ## Target Audience
